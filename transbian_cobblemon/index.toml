@@ -116,11 +116,6 @@ hash = "ae36dc14fbe7fd3c3b4a1f44db531916d44fd5961d053c97c31280de16ceca92"
 metafile = true
 
 [[files]]
-file = "mods/just-enough-resources-jer.pw.toml"
-hash = "b38db45e00821e347147acd632bf17c91f9237a35adde827e2b8eb7c20274cb2"
-metafile = true
-
-[[files]]
 file = "mods/krypton.pw.toml"
 hash = "c4e45594c8d1ab3dacc3b49142f16fb253178dd31d97cc917bf4a4d54f21e081"
 metafile = true
