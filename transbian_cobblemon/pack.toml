@@ -1,12 +1,12 @@
 name = "Transbian Cobblemon"
 author = "Emily"
-version = "1.0.1"
+version = "1.0.2"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "9844197f77b98c727453cec79e622176539d913ca339eeec25c2e30dce3b4dc2"
+hash = "069bb644599083db00fd54c77006ac8a8d41a0d370cac65d8ca5de6576d381b9"
 
 [versions]
 fabric = "0.16.9"

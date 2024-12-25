@@ -1,0 +1,1 @@
+resourcePacks:["vanilla","fabric","cobblemon:gyaradosjump","cobblemon:regionbiasforms","cobblemon:uniqueshinyforms","continuity:default","continuity:glass_pane_culling_fix","file/XaerosCobblemon-3.0.0_stars+1.6.zip","file/AllTheMons R2.1 V1.zip"]

@@ -1,0 +1,13 @@
+name = "AllTheMons [Cobblemon Addon]"
+filename = "AllTheMons R2.1 V1.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/JV5dvqVX/versions/T9y26Eqm/AllTheMons%20R2.1%20V1.zip"
+hash-format = "sha512"
+hash = "d4f14c29bffee58a9c7fa021a8a79371a13f26ce88ea560c1b9b58676b0289a5fd8720f32f51d07a706be798248d84cf26d24693a220a2943c29d617ee75b3f1"
+
+[update]
+[update.modrinth]
+mod-id = "JV5dvqVX"
+version = "T9y26Eqm"

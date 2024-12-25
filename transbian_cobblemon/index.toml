@@ -56,6 +56,11 @@ hash = "4f97764f3cb4c74f84afbe32cf8a1d2cefecda129c0f1441906562dcb8f2b8cb"
 metafile = true
 
 [[files]]
+file = "mods/controlling.pw.toml"
+hash = "1365610f945f34d5d9ca8987ff8dc9a6d0754d49f5b7a78ca507a1e74bcb0ce2"
+metafile = true
+
+[[files]]
 file = "mods/craftpresence.pw.toml"
 hash = "6185d6951df8226115e35bd3e7e1e659a38f1d80b5da902ea4aa0e401e95cc47"
 metafile = true
@@ -171,6 +176,11 @@ hash = "62bc1d0108fe9e13d45d3534bb70edc36b7af98e8a68439a75e4c692adca2a50"
 metafile = true
 
 [[files]]
+file = "mods/searchables.pw.toml"
+hash = "8302da862578554b012b2cfe58a3c1e75b514d09f94d842e7303be41a2157aeb"
+metafile = true
+
+[[files]]
 file = "mods/shulkerboxtooltip.pw.toml"
 hash = "4dc08fba8bbc2f015d56b0b0184bd19d2f9b897654d275151e7a3dbb9ee1792f"
 metafile = true
@@ -233,6 +243,15 @@ metafile = true
 [[files]]
 file = "mods/zoomify.pw.toml"
 hash = "3c768bdd4ba36d8e871a740457f4d3deb387cd1fa7cdb4417626cec3e2c72706"
+metafile = true
+
+[[files]]
+file = "options.txt"
+hash = "c81efd0b9e344ad8ecff0cc94b893a9f2e66c657a5cbdf908a0fe9f0b041eead"
+
+[[files]]
+file = "resourcepacks/allthemons.pw.toml"
+hash = "f371955401da14372701103a5625d696cb7b52bad29febe2b0aaf04f60cea820"
 metafile = true
 
 [[files]]
