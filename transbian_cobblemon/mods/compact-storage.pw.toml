@@ -1,0 +1,13 @@
+name = "CompactStorage"
+filename = "compact_storage-1.21-fabric-8.0.75.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/CNYyGWn5/versions/qePaOrBM/compact_storage-1.21-fabric-8.0.75.jar"
+hash-format = "sha512"
+hash = "3fd69d44c88b98d9462c71c3f2aed2436c1cd5f6dcdbdaef4b14f78c2d8e0cc95c32e080285d2de5b767f9521270d70fe77ba1364569c8fb0d3c37af4a4eabbf"
+
+[update]
+[update.modrinth]
+mod-id = "CNYyGWn5"
+version = "qePaOrBM"
